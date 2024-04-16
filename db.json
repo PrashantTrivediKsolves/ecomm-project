@@ -1,0 +1,216 @@
+{
+  "seller": [
+    {
+      "id": "407e",
+      "name": "prasant",
+      "password": "123",
+      "emal": "pk98480@gmail.com"
+    },
+    {
+      "id": "89d2",
+      "name": "surendra",
+      "password": "1234",
+      "emal": "pk98480@gmail.com"
+    },
+    {
+      "id": "858b",
+      "name": "Archana",
+      "password": "1234",
+      "email": "pk98480@gmail.com"
+    },
+    {
+      "id": "8d9d",
+      "name": "prashant trivedi",
+      "password": "980",
+      "email": "p@c"
+    },
+    {
+      "id": "cdc3",
+      "name": "prashant trivedi",
+      "password": "980",
+      "email": "p@c"
+    },
+    {
+      "id": "f8e5",
+      "name": "surendra kumar",
+      "password": "12345",
+      "email": "surendra@gmail.com"
+    },
+    {
+      "id": "6cfe",
+      "name": "surendra kumar",
+      "password": "12345",
+      "email": "surendra@gmail.com"
+    },
+    {
+      "id": "3722",
+      "name": "Archana Trivedi",
+      "password": "799166",
+      "email": "Archana Trivedi"
+    },
+    {
+      "id": "7b82",
+      "name": "pending Trivedi",
+      "password": "12",
+      "email": "pending@gmail.com"
+    },
+    {
+      "id": "eb53",
+      "name": "pending Trivedi",
+      "password": "12",
+      "email": "pending@gmail.com"
+    },
+    {
+      "id": "6980",
+      "name": "wdf",
+      "password": "1",
+      "email": "pk981480@gmail.com"
+    },
+    {
+      "id": "2d8c",
+      "name": "surendra kumar",
+      "password": "123",
+      "email": "s@gmail.com"
+    },
+    {
+      "id": "7a1d",
+      "name": "Bhasker",
+      "password": "123",
+      "email": "Bhasker@gmail.com"
+    },
+    {
+      "id": "451a",
+      "email": "pk980480@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "6140",
+      "email": "pk980480@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "06eb",
+      "email": "p@c",
+      "password": "1"
+    },
+    {
+      "id": "3c7b",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "706e",
+      "name": "prashant trivedi",
+      "password": "1",
+      "email": "1"
+    },
+    {
+      "id": "0d85",
+      "name": "prashant trivedi",
+      "password": "1",
+      "email": "22"
+    },
+    {
+      "id": "875d",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "bc20",
+      "name": "prashant trivedi",
+      "password": "123",
+      "email": "pk980480@gmail.com"
+    },
+    {
+      "id": "e448",
+      "name": "prashant trivedi",
+      "password": "123",
+      "email": "pk@gmail.com"
+    },
+    {
+      "id": "4048",
+      "name": "Archana Trivedi",
+      "password": "432`1",
+      "email": "A@gmail.com"
+    },
+    {
+      "id": "9cee",
+      "name": "Archana Trivedi",
+      "password": "98",
+      "email": "A@gmail.com"
+    },
+    {
+      "id": "6dd7",
+      "name": "Archana Trivedi",
+      "password": "987",
+      "email": "A@gmail.com"
+    },
+    {
+      "id": "495b",
+      "name": "prashant trivedi",
+      "password": "89",
+      "email": "st@gmail.com"
+    },
+    {
+      "id": "a45e",
+      "name": "prashant trivedi",
+      "password": "89",
+      "email": "st@gmail.com"
+    },
+    {
+      "id": "f2c5",
+      "name": "prashant trivedi2",
+      "password": "ort",
+      "email": "prt@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": "e5e6"
+    },
+    {
+      "id": "8164",
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png"
+    },
+    {
+      "id": "a6e1",
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg"
+    },
+    {
+      "id": "7180",
+      "name": "Truck",
+      "price": "Toy",
+      "category": "Toys",
+      "color": "Red",
+      "description": "A toy for 5 year old child",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388"
+    },
+    {
+      "id": "c263",
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg"
+    }
+  ]
+}
